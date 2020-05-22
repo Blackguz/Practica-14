@@ -1,0 +1,47 @@
+4
+P,Fernando,50
+F,Diana,99,HI
+Z,Arayeli,80,LOW
+F,Juventino,1,MED
+
+<math display="block">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>2</mi>
+      </mrow>
+      <mrow>
+        <mi>x</mi>
+        <mo>&minus;</mo>
+        <mi>3</mi>
+      </mrow>
+    </mfrac>
+    <mo>&plus;</mo>
+    <mfrac>
+      <mrow>
+        <mi>3</mi>
+      </mrow>
+      <mrow>
+        <mi>x</mi>
+        <mo>&plus;</mo>
+        <mi>2</mi>
+      </mrow>
+    </mfrac>
+    <mo>&plus;</mo>
+    <mfrac>
+      <mrow>
+        <mi>4x</mi>
+        <mo>&minus;</mo>
+        <mi>7</mi>
+      </mrow>
+      <mrow>
+        <mi>x</mi>
+        <mn>2</mn>
+        <mo>&minus;</mo>
+        <mi>x</mi>
+        <mo>&minus;</mo>
+        <mi>6</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
